@@ -1,0 +1,9 @@
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\bin\Debug\Gauss.exe.config
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\bin\Debug\Gauss.exe
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\bin\Debug\Gauss.pdb
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\obj\Debug\Gauss.csprojAssemblyReference.cache
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\obj\Debug\Gauss.Form1.resources
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\obj\Debug\Gauss.Properties.Resources.resources
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\obj\Debug\Gauss.csproj.GenerateResource.cache
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\obj\Debug\Gauss.exe
+C:\Users\Kong\Desktop\WorkSpace\Gauss\Gauss\obj\Debug\Gauss.pdb
