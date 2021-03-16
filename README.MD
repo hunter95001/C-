@@ -1,7 +1,7 @@
 C# 프로젝트와 관련된 자료를 업로드 하는 곳입니다.
 
 Project #1 Gray 
-- 이미지를 Gray화 시킵니다
+- 이미지를 Gray화 시킵니다.
 
 Project #2 Gauss 
 - 기존의 랜덤 함수가 아닌 가우스에 의한 랜덤 함수입니다.
@@ -12,5 +12,7 @@ Project #3 PDF
 - 폴더내의 Image(JPG,PNG 등등)를 자동으로 선택하여 PDF 파일로 변환시킵니다. 
 
 Project #4 MySQL
-- MySQL에 연동하는 함수입니다
+- Nuget 패키지에서 Mysql.Data라는 패키지를 설치해야 합니다.
+- MySQL에 연동하는 함수입니다.
 - SELECT 쿼리도 같이 있습니다.
+
