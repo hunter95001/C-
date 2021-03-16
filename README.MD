@@ -18,3 +18,6 @@ Project #4 MySQL
 
 Project #5 Client
 - Socket을 통한 통신 프로그램 입니다.
+
+Project #6 MSSQL
+- MSSQL DataBase에 연동하는 함수입니다.
