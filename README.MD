@@ -16,3 +16,5 @@ Project #4 MySQL
 - MySQL에 연동하는 함수입니다.
 - SELECT 쿼리도 같이 있습니다.
 
+Project #5 Client
+- Socket을 통한 통신 프로그램 입니다.
