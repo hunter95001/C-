@@ -10,3 +10,7 @@ Project #3 PDF
 - PDF 변환기가 있는 프로젝트입니다.
 - Image(JPG,PNG 등등)를 선택해서 PDF파일로 변환시킵니다.
 - 폴더내의 Image(JPG,PNG 등등)를 자동으로 선택하여 PDF 파일로 변환시킵니다. 
+
+Project #4 MySQL
+- MySQL에 연동하는 함수입니다
+- SELECT 쿼리도 같이 있습니다.
