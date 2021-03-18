@@ -21,3 +21,7 @@ Project #5 Client
 
 Project #6 MSSQL
 - MSSQL DataBase에 연동하는 함수입니다.
+
+Project #7 FTP
+- FTP는 파일 전송 프로토콜입니다.
+- FTP를 사용하여 파일을 전송(업로드)하는 코드입니다.
